@@ -1,6 +1,6 @@
+## NAME: Prabha C
+## REG NO: 212222110032 
 # INTERFACING TEMPERATURE SENSOR WITH IOT CONTROLLER AND UPLOADING DATA TO THE CLOUD VIA LORAWAN
-### NAME: Prabha C
-### REG NO: 212222110032
 # AIM:
 To upload the temperature sensor value in the Things mate using Arduino controller.
 
